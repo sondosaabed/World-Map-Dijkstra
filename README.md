@@ -23,9 +23,14 @@ country1, country2, weight (distance)
 ![map](https://user-images.githubusercontent.com/65151701/218070657-4536a51d-a27b-4ef2-81fc-0b93172a74e8.png)
 
 # App Screenshots:
+Browse file scene:
 
 ![image](https://user-images.githubusercontent.com/65151701/218068634-61688a7c-b9c3-4ff1-b13e-fd72ef9da91c.png)
 
+Show the map scene:
+
 ![image](https://user-images.githubusercontent.com/65151701/218068775-06d3f75d-2c75-4680-abb2-97d57d575e82.png)
+
+Show the shortest path scene:
 
 ![image](https://user-images.githubusercontent.com/65151701/218068874-776be9f0-a016-4246-b4b2-8050f347de1e.png)
