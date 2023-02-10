@@ -18,6 +18,10 @@ country1, country2, weight (distance)
 
 ![image](https://user-images.githubusercontent.com/65151701/218069787-2241ae67-1f7c-4af3-b7e7-77d131f14bdf.png)
 
+<p>x and y for the countries are added to a transparent fridpane as follows:</p>
+
+![map](https://user-images.githubusercontent.com/65151701/218070657-4536a51d-a27b-4ef2-81fc-0b93172a74e8.png)
+
 # App Screenshots:
 
 ![image](https://user-images.githubusercontent.com/65151701/218068634-61688a7c-b9c3-4ff1-b13e-fd72ef9da91c.png)
